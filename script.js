@@ -131,7 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
             
             // Create WhatsApp message
-            const message = `Hola! Me interesa sus servicios de CORE IT SERVICES.
+            const message = `Hola! Me interesa sus servicios CORE IT SERVICES.
             
 Mis datos:
 - Nombre: ${nombre}
