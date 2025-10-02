@@ -142,7 +142,7 @@ Mis datos:
 
 Espero su respuesta. Gracias!`;
             
-            const whatsappUrl = `https://wa.me/593999999999?text=${encodeURIComponent(message)}`;
+            const whatsappUrl = `https://wa.me/593963617002?text=${encodeURIComponent(message)}`;
             
             // Open WhatsApp
             window.open(whatsappUrl, '_blank');
